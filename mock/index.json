@@ -1,0 +1,174 @@
+{
+    "_id": ObjectId("5a4390767e65a8918accb9aa"),
+    "home": [{
+            "productId": "h1001",
+            "productName": "豪梦菲林 欧式布艺沙发组合",
+            "productPrice": "3360.0元",
+            "productImg": "jiaju5.jpg",
+            "productIntro": "天然实木雕花设计 时尚而不拘束"
+        },
+        {
+            "productId": "h1002",
+            "productName": "三禾奶锅NGS1600-3",
+            "productPrice": "79.0元",
+            "productImg": "jiaju1.jpg",
+            "productIntro": "纯净健康 宝宝小奶锅"
+        },
+        {
+            "productId": "h1003",
+            "productName": "三禾汤锅 24CM汤锅平底不粘锅",
+            "productPrice": "109.0元",
+            "productImg": "jiaju2.jpg",
+            "productIntro": "阿弗洛不锈钢带你走进精致生活"
+        },
+        {
+            "productId": "h1004",
+            "productName": "三禾奶锅NLF1800-3不粘锅",
+            "productPrice": "119.0元",
+            "productImg": "jiaju3.jpg",
+            "productIntro": "健康奶锅 宝妈的选择"
+        },
+        {
+            "productId": "h1005",
+            "productName": "豪梦菲林 现代简约双人床",
+            "productPrice": "1999.0元",
+            "productImg": "jiaju4.jpg",
+            "productIntro": "意大利头层牛皮 透气贴身更舒适"
+        },
+        {
+            "productId": "h1006",
+            "productName": "豪梦菲林 布艺沙发组合欧式现代",
+            "productPrice": "3299.0元",
+            "productImg": "jiaju6.jpg",
+            "productIntro": "纯手工雕刻 高档布艺 结实框架"
+        },
+        {
+            "productId": "h1007",
+            "productName": "三禾炒锅304不锈钢CGS32",
+            "productPrice": "399.0元",
+            "productImg": "jiaju8.jpg",
+            "productIntro": "带来无烟锅 爆炒体验"
+        },
+        {
+            "productId": "h108",
+            "productName": "三禾炒锅华彩CLF3008-3",
+            "productPrice": "119.0元",
+            "productImg": "jiaju7.jpg",
+            "productIntro": "独有2:1黄金锅体有效解决油烟问题"
+        }
+    ],
+    "food": [{
+            "productId": "f1001",
+            "productName": "特立尼达庄园佳美娜干红葡萄酒",
+            "productPrice": "210.0元",
+            "productImg": "food1.jpg",
+            "productIntro": "酒的新定义-发现生活的无限乐趣"
+        },
+        {
+            "productId": "f1002",
+            "productName": "农绿鲜黄秋葵养生茶礼盒装 果籽茶",
+            "productPrice": "168.0元",
+            "productImg": "food2.jpg",
+            "productIntro": "消除疲劳 抗氧化"
+        },
+        {
+            "productId": "f1003",
+            "productName": "台湾进口 蔓越莓牛扎饼 夹心饼",
+            "productPrice": "65.0元",
+            "productImg": "food3.jpg",
+            "productIntro": "酥松香浓 美味难拒"
+        },
+        {
+            "productId": "f1004",
+            "productName": "【进口】港版美赞臣",
+            "productPrice": "298.0元",
+            "productImg": "food4.jpg",
+            "productIntro": "有助支持脑部发育/肠道健康"
+        },
+        {
+            "productId": "f1005",
+            "productName": "椰正世家 正宗海南生榨椰子汁",
+            "productPrice": "30.0元",
+            "productImg": "food5.jpg",
+            "productIntro": "用新鲜椰子肉榨汁"
+        },
+        {
+            "productId": "f1006",
+            "productName": "10斤装 丹霞皇帝柑 正宗贡柑",
+            "productPrice": "88.0元",
+            "productImg": "food6.jpg",
+            "productIntro": "纯手工雕刻 高档布艺 结实框架"
+        },
+        {
+            "productId": "f1009",
+            "productName": "正宗天然野生原木花菇",
+            "productPrice": "88.0元",
+            "productImg": "food7.jpg",
+            "productIntro": "天然野生、无污染、无任何农药"
+        },
+        {
+            "productId": "f1010",
+            "productName": "思林卡胶原蛋白肽3g*30袋",
+            "productPrice": "158.0元",
+            "productImg": "food8.jpg",
+            "productIntro": "修复肌肤 延缓衰老"
+        }
+    ],
+    "live": [{
+            "productId": "l1001",
+            "productName": "松下电饭煲 SR-UH36C",
+            "productPrice": "1499.0元",
+            "productImg": "live1.jpg",
+            "productIntro": "全方位立体加热 不粘涂层内锅"
+        },
+        {
+            "productId": "l1002",
+            "productName": "松下电风扇F-CM339C",
+            "productPrice": "2099.0元",
+            "productImg": "live2.jpg",
+            "productIntro": "7大品质 为品质而生"
+        },
+        {
+            "productId": "l1003",
+            "productName": "三星65吋曲面量子点液晶电视",
+            "productPrice": "21099.0元",
+            "productImg": "live3.jpg",
+            "productIntro": "刷新色彩亮度定义"
+        },
+        {
+            "productId": "l1004",
+            "productName": "格力定频柜机空调",
+            "productPrice": "4250.0元",
+            "productImg": "live4.jpg",
+            "productIntro": "格力空调现代科技"
+        },
+        {
+            "productId": "l1005",
+            "productName": "三星手机Galaxy Note7",
+            "productPrice": "5728.0元",
+            "productImg": "live5.jpg",
+            "productIntro": "虹膜识别"
+        },
+        {
+            "productId": "l1006",
+            "productName": "华为手机P9 plus",
+            "productPrice": "88.0元",
+            "productImg": "live6.jpg",
+            "productIntro": "一上手就爱不释手"
+        },
+        {
+            "productId": "l1009",
+            "productName": "苹果Apple iPhone 6 Plus",
+            "productPrice": "88.0元",
+            "productImg": "live7.jpg",
+            "productIntro": "支持5g频段 3倍的WiFi速度"
+        },
+        {
+            "productId": "l1010",
+            "productName": "vivo X7自拍美颜拍照智能手机",
+            "productPrice": "2498.0元",
+            "productImg": "live8.jpg",
+            "productIntro": "1600万柔光自拍 照亮你的美"
+        }
+    ]
+}

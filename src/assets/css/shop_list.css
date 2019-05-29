@@ -1,0 +1,394 @@
+#middle {
+    width: 100%;
+}
+
+.shopList .nav {
+    width: 100%;
+    background-color: #ffa130;
+    position: relative;
+}
+
+.shopList .nav_wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.shopList .nav_wrap:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.shopList .main_nav {
+    float: left;
+}
+
+.shopList .main_nav .active {
+    background-color: #f88f1f;
+}
+
+.shopList .main_nav ul {
+    overflow: hidden;
+}
+
+.shopList .main_nav li {
+    float: left;
+    line-height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 266px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.shopList .main_nav a {
+    color: #ffffff;
+    height: 52px;
+    line-height: 52px;
+    display: inline-block;
+    font-size: 18px;
+    width: 226px;
+}
+
+.shopList .shop_list_wrap {
+    background-color: #f4f4f4;
+    padding-top: 34px;
+    padding-bottom: 37px;
+}
+
+.shopList .center {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden
+}
+
+.shopList .left_nav {
+    float: left;
+    width: 175px;
+    overflow: hidden;
+    margin-right: 20px;
+}
+
+.shopList .left_nav ul {
+    border: 1px solid #ccc;
+    overflow: hidden;
+    line-height: 40px;
+    background: #fff;
+    font-size: 14px;
+}
+
+.shopList .left_nav ul li {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer
+}
+
+.shopList .left_nav a {
+    display: inline-block;
+    width: 173px;
+}
+
+.shopList .left_nav .router-link-active {
+    background-color: #ffa130;
+    color: #fff;
+}
+
+.shopList .left_nav .bb0 {
+    border-bottom: none;
+}
+
+.shopList .shop_list {
+    float: left;
+    width: 1000px
+}
+
+.shopList .sort_bar {
+    width: 998px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    line-height: 37px;
+    margin-bottom: 41px;
+    background-color: #ffffff;
+}
+
+.shopList .sorts {
+    float: left;
+}
+
+.shopList .sorts a {
+    color: #333;
+    display: inline-block;
+    width: 80px;
+    height: 41px;
+    line-height: 41px;
+    border-right: 1px solid #ccc;
+    text-indent: 1em;
+    background-position: 58px;
+    font-size: 14px
+}
+
+.shopList .sorts .ascending {
+    background: url("./../../../static/img/icon-ascending.gif") no-repeat 55px 13px;
+    transition: all .3s ease-out;
+}
+
+.shopList .sorts .descending {
+    background: url("./../../../static/img/icon-descending.gif") no-repeat 55px 13px;
+    transition: all .3s ease-out;
+}
+
+.shopList .sorts .current {
+    color: #f09043;
+}
+
+.shopList .address {
+    float: left;
+    padding-left: 114px;
+    padding-right: 152px;
+    line-height: 41px;
+    font-size: 12px;
+}
+
+.shopList .address select {
+    width: 84px;
+    height: 23px;
+    border: 1px solid #bbbdbb;
+    font-size: 12px;
+    cursor: pointer;
+    vertical-align: middle;
+    padding: 2px;
+}
+
+.shopList .feature {
+    float: left;
+    line-height: 41px;
+}
+
+.shopList .feature ul {
+    overflow: hidden;
+}
+
+.shopList .feature li {
+    float: left;
+    padding-right: 21px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.shopList .feature i {
+    width: 13px;
+    height: 13px;
+    border: 1px solid #bbbdbb;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+
+.shopList .feature i img {
+    position: absolute;
+    left: 3px;
+    top: 3px;
+}
+
+.shopList .pager {
+    float: left;
+    margin-left: 210px;
+}
+
+.shopList .pager span {
+    border: 1px solid #eeeeee;
+    width: 55px;
+    display: inline-block;
+    text-align: center;
+}
+
+.shopList .pager b {
+    font-size: 12px;
+    font-style: normal;
+    color: #f09044;
+}
+
+.shopList .pager em {
+    font-size: 12px;
+    font-style: normal;
+}
+
+.shopList .pager i {
+    font-size: 12px;
+    font-style: normal;
+}
+
+.shopList .pager a {
+    width: 39px;
+    text-align: center;
+    display: inline-block;
+}
+
+.shopList .pager a:first-of-type {
+    border-right: 1px solid #EEEEEE;
+}
+
+.shopList .list_item {
+    margin-top: 41px;
+    width: 1000px;
+}
+
+.shopList .list_item ul {
+    overflow: hidden;
+}
+
+.shopList .list_item li {
+    float: left;
+    margin-bottom: 14px;
+    background-color: #FFFFFF;
+    width: 322px;
+}
+
+.shopList .list_item li:nth-child(3n-1) {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.shopList .item_details {
+    width: 239px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.shopList .item_details img {
+    width: 228px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.shopList .item_details a:nth-child(1) {
+    width: 239px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.shopList .item_details h3 {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+    padding-bottom: 7px;
+    cursor: pointer;
+}
+
+.shopList .item_details span {
+    color: #ff6709;
+    text-align: center;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.shopList .item_data {
+    border-top: 1px solid #f4f4f4;
+}
+
+.shopList .item_data span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 41px;
+    width: 158px;
+    text-align: center;
+}
+
+.shopList .item_data span:nth-child(1) {
+    border-right: 1px solid #f4f4f4;
+}
+
+.shopList .item_data span:nth-child(1)>em {
+    color: #ff6709;
+    font-style: normal;
+}
+
+.shopList .item_data span img {
+    vertical-align: middle;
+}
+
+.shopList .item_data span:nth-child(2) a {
+    color: #FF6709;
+    width: 93px;
+    display: inline-block;
+}
+
+.shopList .page {
+    padding-top: 70px;
+    overflow: hidden;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.shopList .page_l {
+    float: left;
+    margin-left: 281px;
+}
+
+.shopList .page_l ul {
+    overflow: hidden;
+}
+
+.shopList .page_l li {
+    float: left;
+    width: 38px;
+    line-height: 38px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    margin-right: 11px;
+    font-size: 12px;
+}
+
+.shopList .page_l .on {
+    background-color: #ff6709;
+}
+
+.shopList .page_l .on a {
+    color: #FFFFFF;
+}
+
+.shopList .page_l li:nth-child(6) {
+    border: none;
+}
+
+.shopList .page_l li a {
+    width: 38px;
+    display: inline-block;
+}
+
+.shopList .page_l li a:hover {
+    background-color: #ff6709;
+    color: #FFFFFF;
+}
+
+.shopList .page_r {
+    float: left;
+}
+
+.shopList .page_r label {
+    font-size: 12px;
+    margin-left: 3px;
+}
+
+.shopList .page_r label input {
+    width: 38px;
+    line-height: 38px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 6px;
+}
+
+.shopList .page_r button {
+    border: none;
+    width: 65px;
+    line-height: 40px;
+    margin-left: 8px;
+}
+
+.shopList .loadMore {
+    text-align: center;
+}

@@ -1,0 +1,332 @@
+#middle {
+    width: 100%;
+}
+
+.shopCart .nav {
+    width: 100%;
+    background-color: #ffa130;
+    position: relative;
+}
+
+.shopCart .nav_wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.shopCart .nav_wrap:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.shopCart .main_nav {
+    float: left;
+}
+
+.shopCart .main_nav .active {
+    background-color: #f88f1f;
+}
+
+.shopCart .main_nav ul {
+    overflow: hidden;
+}
+
+.shopCart .main_nav li {
+    float: left;
+    line-height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 266px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.shopCart .main_nav a {
+    color: #ffffff;
+    height: 52px;
+    line-height: 52px;
+    display: inline-block;
+    font-size: 18px;
+    width: 226px;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 1200px;
+    position: relative;
+}
+
+.all_pro {
+    width: 1194px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-bottom: 3px solid #bcbab8;
+}
+
+.all_pro h1 {
+    color: #f09044;
+    font-size: 20px;
+    margin-top: 36px;
+    padding-bottom: 20px;
+    line-height: 20px;
+    padding-left: 15px;
+    width: 158px;
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.content ul {
+    overflow: hidden;
+    margin-left: 19px;
+}
+
+.content li {
+    float: left;
+    line-height: 55px;
+    font-size: 14px;
+}
+
+.content li em {
+    font-style: normal;
+}
+
+.content li:nth-child(1) {
+    margin-right: 140px;
+    cursor: pointer;
+}
+
+.content li:nth-child(2) {
+    margin-right: 471px;
+}
+
+.content li:nth-child(n+3) {
+    margin-right: 91px;
+}
+
+.content li:nth-child(6) {
+    margin-right: 0px;
+}
+
+.select {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    border: 1px solid #cdcdcd;
+    margin-right: 11px;
+    cursor: pointer;
+}
+
+.select_all {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    border: 1px solid #cdcdcd;
+    margin-right: 11px;
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+}
+
+.backgroud {
+    position: absolute;
+    left: 4px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.dian {
+    position: absolute;
+    left: 23px;
+    top: 26px;
+    cursor: pointer;
+}
+
+#car_list {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#car_list>ul {
+    overflow: hidden;
+    border: 1px solid #d4d4d4;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-bottom: 22px;
+    margin-bottom: 20px;
+}
+
+#car_list li {
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+
+#car_list li>a {
+    width: 96px;
+    height: 96px;
+    display: inline-block;
+    border: 1px solid #edebeb;
+    vertical-align: top;
+}
+
+#car_list li h2>a {
+    display: inline-block;
+    margin-bottom: 55px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+}
+
+#car_list li p {
+    font-size: 14px;
+}
+
+#car_list li a img {
+    width: 94px;
+}
+
+#car_list li:nth-child(4) span {
+    width: 30px;
+    height: 25px;
+    border: 1px solid #d9dada;
+    background: none;
+    float: left;
+    cursor: pointer;
+    line-height: 25px;
+    vertical-align: middle;
+    text-align: center;
+    display: block;
+}
+
+#car_list li:nth-child(1) {
+    width: 187px;
+}
+
+#car_list li:nth-child(2) {
+    width: 515px;
+    line-height: 54px;
+}
+
+#car_list li:nth-child(3) {
+    width: 102px;
+    line-height: 54px;
+}
+
+#car_list li:nth-child(4) {
+    width: 137px;
+    padding-top: 13px;
+}
+
+#car_list li:nth-child(5) {
+    width: 134px;
+    line-height: 54px;
+}
+
+#car_list li:nth-child(6) {
+    cursor: pointer;
+    line-height: 54px;
+}
+
+#car_list #br0 {
+    border-left: none;
+    border-right: none;
+}
+
+.price {
+    color: #ff4242;
+    font-size: 14px;
+}
+
+.money {
+    color: #ff4242;
+    font-size: 14px;
+}
+
+.money em {
+    font-style: normal;
+}
+
+.delete {
+    font-size: 14px;
+    color: #868583;
+}
+
+.select_pro {
+    width: 1198px;
+    margin: 0 auto;
+    border: 1px solid #d4d4d4;
+    line-height: 55px;
+    font-size: 14px;
+    color: #898787;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.select_pro i {
+    font-style: normal;
+    line-height: 55px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.select_pro>span:nth-child(1) {
+    margin-left: 19px;
+}
+
+.select_pro>span:nth-of-type(2) {
+    margin-right: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+    line-height: 55px;
+    display: inline-block;
+}
+
+.select_pro>span:nth-of-type(3) {
+    cursor: pointer;
+    line-height: 55px;
+    display: inline-block;
+}
+
+.account {
+    float: right;
+    font-size: 14px;
+    line-height: 51px;
+}
+
+.account .grayBtn {
+    background-color: #868583
+}
+
+.account span {
+    margin-right: 37px;
+}
+
+.account span em {
+    color: #ff0000;
+    font-style: normal;
+}
+
+.account button {
+    width: 121px;
+    height: 55px;
+    background-color: #FF0000;
+    border: none;
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+#car_list .checked {
+    background: url("/static/img/select.png") no-repeat center;
+}
+
+.select_pro .checked {
+    background: url("/static/img/select.png") no-repeat center;
+}
+
+.contentLi .checked {
+    background: url("/static/img/select.png") no-repeat center;
+}

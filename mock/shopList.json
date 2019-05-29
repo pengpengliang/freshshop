@@ -1,0 +1,74 @@
+{
+    "status": "0",
+    "msg": "",
+    "wine": [{
+        "proID": "W1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥180.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "3"
+    }],
+    "leisure": [{
+        "proID": "L1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥10.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "0"
+    }],
+    "milk": [{
+        "proID": "M1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "livingroom": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "Kitchenware": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "bedroom": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "Sappliances": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "Bappliances": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "mobile": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }],
+    "health": [{
+        "proID": "F1001",
+        "proName": "德国原装进口啤酒 ",
+        "proPrice": "￥80.0 ",
+        "proImg": "wine1.jpg",
+        "proSale": "33"
+    }]
+}
